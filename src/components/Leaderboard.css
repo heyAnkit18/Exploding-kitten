@@ -1,0 +1,18 @@
+.leaderboard-container {
+    margin: 20px 0;
+  }
+  
+  .leaderboard-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .leaderboard-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .leaderboard-item:last-child {
+    border-bottom: none;
+  }
+  
